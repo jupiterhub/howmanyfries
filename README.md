@@ -1,13 +1,12 @@
 # howmanyfries
 
-- How many fries does a box contain?
-- Get the best value for your buck and fill that tummy.
+You'll never eat fries the same way again with this App for Android and iOS
+
+Doubt be gone. Get answers to very important questions like
+- How many fries does a small/regular/large fries contain?
 - Which country serves the most fries?
 - Which outlets gives the most fries?
 - When is the best time to get the most fries?
-
-
-You'll never eat fries the same way again with this award-winning design for Android and iOS
 
 ## Jupiter's Conclusion
 
